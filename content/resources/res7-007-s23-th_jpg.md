@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-7-007-7-06x-cell-biology/res7-007-s23-th.jpg
+file_size: 20893
 file_type: image/jpeg
 image_metadata:
   caption: How do we know what we know about cells at a molecular level and how can
