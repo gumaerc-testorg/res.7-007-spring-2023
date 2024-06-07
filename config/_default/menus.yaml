@@ -1,13 +1,13 @@
 leftnav:
-- identifier: external--314389252-1684525350289
+- identifier: 71fe6b6e-ad27-482e-8796-17b84e70e1b6
   name: Transport and Signaling
-  url: https://www.edx.org/course/cell-biology-transport
+  pageRef: /external-resources/transport-and-signaling_71fe6b6e-ad27-482e-8796-17b84e70e1b6
   weight: 10
-- identifier: external--470787835-1684525380713
+- identifier: e0f7b3ef-ccaa-40b4-82ba-a41dd9ec3ac9
   name: The Cytoskeleton and Cell Cycle
-  url: https://www.edx.org/course/cell-biology-2
+  pageRef: /external-resources/the-cytoskeleton-and-cell-cycle_e0f7b3ef-ccaa-40b4-82ba-a41dd9ec3ac9
   weight: 20
-- identifier: external--470787834-1684525411455
+- identifier: 3477bbb8-48f1-4032-b808-d8108f4a2bf6
   name: Cell-Cell Interactions
-  url: https://www.edx.org/course/cell-biology-3
+  pageRef: /external-resources/cell-cell-interactions_3477bbb8-48f1-4032-b808-d8108f4a2bf6
   weight: 30
