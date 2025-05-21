@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-7-007-7-06x-cell-biology/res7-007-s23-th.jpg
+file: courses/706x-cell-biology/res7-007-s23-th.jpg
 file_size: 20893
 file_type: image/jpeg
 image_metadata:
