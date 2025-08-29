@@ -1,6 +1,6 @@
 ---
 content_type: external-resource
-external_url: https://www.edx.org/course/cell-biology-2
+external_url: https://mitxonline.mit.edu/courses/course-v1:MITxT+7.06.2x/
 has_external_license_warning: true
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 status: valid
